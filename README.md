@@ -16,6 +16,8 @@ The project uses an IR obstacle sensor to detect obstacles and an L293D motor dr
 - `Obstacle_Robot.uvproj` - Keil project
 - `LPC2138_Obstacle_Robot.pdsprj` - Proteus circuit
 
+![Obstacle Avoiding Robot Circuit](obstacleavoidingrobot-circuit.png)
+
 Note: The IR sensor required a separately downloaded Proteus library.
 This project was developed and tested in simulation.
 
