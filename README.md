@@ -20,4 +20,5 @@ Note: The IR sensor required a separately downloaded Proteus library.
 This project was developed and tested in simulation.
 
 I made this project using Keil µVision 4 and Proteus 8 Professional. Compatibility with newer versions has not been verified.
+
 Author: Saksham Joshi
